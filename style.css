@@ -1,0 +1,26 @@
+.heading{
+    width: 80%;
+    font-size: 25px;
+    color: white;
+
+}
+body{
+   
+    background-image: linear-gradient(lightgreen,lightblue);
+
+}
+#camera{
+border: 2px dashed black;
+width:340px;
+height: 300px;
+    
+}
+.NAME_OF_OBJECTS,#object_name,#object_accuracy{
+    padding: 5px;
+color: darkblue;
+}
+
+.sister,.me{
+    background-image: linear-gradient(orange,white,green);;
+    padding: 10px;
+}
